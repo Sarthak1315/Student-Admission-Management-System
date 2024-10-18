@@ -91,9 +91,14 @@ The **Student Admission Management System** is an ASP.NET-based web application 
 ---
 
 #### Screenshots:
-- **Database Schema**: The system's database structure is represented visually in [`drawSQL-image-export-2024-10-01.png`](https://github.com/Sarthak1315/Student-Admission-Management-System/blob/main/drawSQL-image-export-2024-10-01.png).
+- **Database Schema**: The system's database structure is represented visually in ![`drawSQL-image-export-2024-10-01.png`](https://github.com/Sarthak1315/Student-Admission-Management-System/blob/main/drawSQL-image-export-2024-10-01.png).
 - **Presentation**: Refer to [`Student-Admission-Management-System.pptx`](https://github.com/Sarthak1315/Student-Admission-Management-System/blob/main/Student-Admission-Management-System.pptx) for a complete project overview and documentation.
-- <img src="" alt="c" width="40" height="40"/>&ensp;
+
+<img src="Screenshots/1.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/2.png" alt="1" width="500" height="300"/> 
+<img src="Screenshots/3.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/4.png" alt="1" width="500" height="300"/>
+<img src="Screenshots/5.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/6.png" alt="1" width="500" height="300"/>
+<img src="Screenshots/6.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/8.png" alt="1" width="500" height="300"/>
+<img src="Screenshots/9.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/10.png" alt="1" width="500" height="300"/>
 
 ---
 
@@ -101,11 +106,6 @@ The **Student Admission Management System** is an ASP.NET-based web application 
 - Integration with mobile platforms for easier student access.
 - Multi-language support for broader accessibility.
 - Real-time notifications for admission updates and status changes.
-
----
-
-#### License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
