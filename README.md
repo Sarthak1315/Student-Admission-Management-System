@@ -94,11 +94,17 @@ The **Student Admission Management System** is an ASP.NET-based web application 
 - **Database Schema**: The system's database structure is represented visually in ![`drawSQL-image-export-2024-10-01.png`](https://github.com/Sarthak1315/Student-Admission-Management-System/blob/main/drawSQL-image-export-2024-10-01.png).
 - **Presentation**: Refer to [`Student-Admission-Management-System.pptx`](https://github.com/Sarthak1315/Student-Admission-Management-System/blob/main/Student-Admission-Management-System.pptx) for a complete project overview and documentation.
 
-<img src="Screenshots/1.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/2.png" alt="1" width="500" height="300"/> 
-<img src="Screenshots/3.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/4.png" alt="1" width="500" height="300"/>
-<img src="Screenshots/5.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/6.png" alt="1" width="500" height="300"/>
-<img src="Screenshots/6.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/8.png" alt="1" width="500" height="300"/>
-<img src="Screenshots/9.png" alt="1" width="500" height="300"/>&ensp;<img src="Screenshots/10.png" alt="1" width="500" height="300"/>
+![Screenshots/1.png](Screenshots/1.png) 
+![Screenshots/2.png](Screenshots/2.png)
+![Screenshots/3.png](Screenshots/3.png)
+![Screenshots/4.png](Screenshots/4.png)
+![Screenshots/5.png](Screenshots/5.png)
+![Screenshots/6.png](Screenshots/6.png)
+![Screenshots/7.png](Screenshots/7.png)
+![Screenshots/8.png](Screenshots/8.png)
+![Screenshots/9.png](Screenshots/9.png)
+![Screenshots/10.png](Screenshots/10.png)
+
 
 ---
 
