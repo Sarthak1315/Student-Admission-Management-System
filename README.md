@@ -117,7 +117,7 @@ The **Student Admission Management System** is an ASP.NET-based web application 
 
 ## Author
 
-Student Admission Management System was developed by [Sarthak Patel](http://github.com/Sarthak1315) , [Het Goti](http://github.com/) , [Meet thummar](http://github.com/) And [Pratham Katrodiya](http://github.com/).
+Student Admission Management System was developed by [Sarthak Patel](http://github.com/Sarthak1315) , [Het Goti](https://github.com/het0807) , [Meet thummar](https://github.com/Meet696) And [Pratham Katrodiya](https://github.com/pratham-katrodiya).
 
 Connect with Sarthak Patel:
 
